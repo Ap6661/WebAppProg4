@@ -28,4 +28,13 @@
   background-color: aliceblue;
 }
 
+table, th, td {
+  border: 1px solid;
+  color: Black;
+  text-align: center;
+  padding: 0.5em;
+}
 
+tbody>tr:nth-child(odd) {
+  background-color: lightgrey;
+}
