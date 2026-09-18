@@ -14,9 +14,6 @@
   color: yellow;
 }
 
-.name {
-
-}
 
 .name.nora {
   color: navy;
@@ -26,6 +23,14 @@
 .name.rank {
   color: red;
   background-color: aliceblue;
+}
+
+.name:hover {
+  border-color: pink green green pink; 
+  border-width: 5px;
+  border-style: dotted;
+  color: ghostwhite;
+  text-shadow: 2px 2px 5px purple;
 }
 
 table, th, td {
