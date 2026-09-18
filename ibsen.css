@@ -1,0 +1,31 @@
+.speech {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: black;
+}
+
+.direction {
+  background-color: lightgrey
+
+}
+
+.direction:hover {
+  background-color: purple;
+  color: yellow;
+}
+
+.name {
+
+}
+
+.name.nora {
+  color: navy;
+  background-color: aliceblue;
+}
+
+.name.rank {
+  color: red;
+  background-color: aliceblue;
+}
+
+
